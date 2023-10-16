@@ -17,12 +17,12 @@ const UserTable = () => {
       <table>
         <thead>
           <tr>
-            <th className="header">ID</th>
-            <th>Image</th>
+            <th className="header">Sno</th>
+            <th>Profile Pic</th>
             <th className="header">First Name</th>
             <th className="header">Last Name</th>
             <th className="header">Gender</th>
-            <th>Email</th>
+            <th>E-mail</th>
             <th>Username</th>
             <th>Domain</th>
             <th>IP</th>
